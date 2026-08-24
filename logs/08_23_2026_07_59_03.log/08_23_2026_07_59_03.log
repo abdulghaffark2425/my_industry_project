@@ -1,0 +1,9 @@
+[ 2026-08-23 07:59:03,807 ] 27 root - INFO - Entered the data ingestion method or component
+[ 2026-08-23 07:59:03,808 ] 37 root - INFO - Read the dataset as dataframe
+[ 2026-08-23 07:59:03,814 ] 48 root - INFO - Train test split initiated
+[ 2026-08-23 07:59:03,819 ] 60 root - INFO - Ingestion of the data is completed
+[ 2026-08-23 07:59:03,825 ] 64 root - INFO - Read train and test data completed
+[ 2026-08-23 07:59:03,825 ] 48 root - INFO - Numerical columns scaling pipeline created.
+[ 2026-08-23 07:59:03,827 ] 76 root - INFO - Applying preprocessing object on train and test data
+[ 2026-08-23 07:59:03,879 ] 53 root - INFO - Splitting training and testing input data
+[ 2026-08-23 07:59:04,088 ] 86 root - INFO - Best model found: Linear Regression with score: 1.0
