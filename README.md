@@ -1,6 +1,6 @@
 ﻿ # End-to-End Machine Learning Production Pipeline
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue) ![Flask](https://img.shields.io/badge/Flask-Web%20Framework-green) ![MongoDB](https://img.shields.io/badge/MongoDB-Database-brightgreen) ![Docker](https://img.shields.io/badge/Docker-Containerization-blue)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue) ![Flask](https://img.shields.io/badge/Flask-Web%20Framework-green) ![MongoDB](https://img.shields.io/badge/MongoDB-Database-brightgreen) ![Docker](https://img.shields.io/badge/Docker-Containerization-blue) [![Python Application CI](https://github.com/abdulghaffark2425/my_industry_project/actions/workflows/main.yaml/badge.svg)](https://github.com/abdulghaffark2425/my_industry_project/actions/workflows/main.yaml)
 
 An end-to-end production-ready Machine Learning system integrated with Flask web interface and MongoDB for logging dynamic predictions.
 
